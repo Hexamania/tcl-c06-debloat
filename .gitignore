@@ -1,0 +1,9 @@
+# Local device data extraction folder
+backups/
+*.apk
+
+# Local execution logs and environment files
+repo_execution.log
+disabled.log
+removed.log
+.DS_Store
